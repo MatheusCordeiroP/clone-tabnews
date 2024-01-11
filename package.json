@@ -16,6 +16,7 @@
   "author": "Matheus Cordeiro",
   "license": "MIT",
   "dependencies": {
+    "@types/jest": "^29.5.11",
     "next": "^13.4.13",
     "node-pg-migrate": "^6.2.2",
     "node-postgres": "^0.6.2",
